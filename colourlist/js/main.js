@@ -28,6 +28,6 @@ fetch("https://reqres.in/api/unknown").then((response) => {
   }
   response.json().then((jsonContent) => {
     // loop through the data array of the json object and print each object inside it
-    // add your code here ...
+    // add your code here
   });
 });
